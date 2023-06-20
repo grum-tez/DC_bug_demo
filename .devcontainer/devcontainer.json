@@ -6,7 +6,7 @@
     "ghcr.io/devcontainers/features/docker-in-docker:2": {},
     "ghcr.io/devcontainers/features/node:1": {},
     "ghcr.io/devcontainers/features/python:1": {},
-    "ghcr.io/grum-tez/features_template/bug_demo:1": {}
+    "ghcr.io/grum-tez/features_template/octez-client-installer:1": {}
   },
   "forwardPorts": [3000, 20000]
 }
